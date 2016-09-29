@@ -3,7 +3,7 @@
    - Add .env file into the project's directory
    - Create database in mysql
    - Configure .env file with database credentials
-   - Run command "npm install gulp"
+   - Run commands "npm install" and then "npm install gulp"
    - Run migration files using the command "php artisan migrate:install"
    - Then, run the command "php artisan migrate"
    - Run the command "php artisan db:seed"
@@ -42,6 +42,6 @@
    
    
 ## Managing the time and pressure:
-   - I had a hard time managing the time and pressure as the first day of the time span given to me was gone without even getting to start the project. I did a lot of research through different vlogs and sites looking for  a proper solution to my problem.
-   - I followed some of the step-by-step examples to understand what I was about to do.
-   - My friend did a great job guiding me and helping me to build up the confidence on me to complete my project within the provided time despite all the pressure.
+   - I had a hard time managing the time and pressure as the first day of the time span given to me was gone without even getting to start the project. I did a lot of research through different blog and sites looking for  a proper solution to my problem.
+   - I followed some of the step-by-step examples to understand what I was about to do and that aso helped me build the confidence to tackle the pressure.
+   - Since I'm a final year bachelor student, I also had some of the tasks from college's final year project that overlapped along with this project. Despite it, I gave as much time as possible in the development of the project with all my effort.
