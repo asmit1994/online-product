@@ -1,5 +1,7 @@
 ## Instructions to run the project:
+<<<<<<< HEAD
    - Clone the project to your computer by running the command "git clone https://github.com/asmit1994/online-product"
+   - Clone the project to your computer by running the command "git clone https://github.com/madhusudhan1234/cms.git"
    - Add .env file into the project's directory
    - Create database in mysql
    - Configure .env file with database credentials
@@ -8,8 +10,8 @@
    - Then, run the command "php artisan migrate"
    - Run the command "php artisan db:seed"
    - Then, run the command "php artisan serve"
-   - Go the your browser and type in the URL "localhost:8000"
-   - For the login access you can see seed file of user table
+   - Go to your browser and type in the URL "localhost:8000"
+   - For the login access, you can see seed file of user table
    - Then, hopefully you should be good to go
    
    
@@ -45,3 +47,6 @@
    - I had a hard time managing the time and pressure as the first day of the time span given to me was gone without even getting to start the project. I did a lot of research through different blog and sites looking for  a proper solution to my problem.
    - I followed some of the step-by-step examples to understand what I was about to do and that aso helped me build the confidence to tackle the pressure.
    - Since I'm a final year bachelor student, I also had some of the tasks from college's final year project that overlapped along with this project. Despite it, I gave as much time as possible in the development of the project with all my effort.
+   - I had a hard time managing the time and pressure as the first day of the time span given to me was gone without even getting to start the project. I did a lot of research through different vlogs and sites looking for  a proper solution to my problem.
+   - I followed some of the step-by-step examples to understand what I was about to do.
+   - My friend did a great job guiding me and helping me to build up the confidence on me to complete my project within the provided time despite all the pressure.
