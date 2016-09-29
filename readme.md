@@ -1,5 +1,5 @@
 ## Instructions to run the project:
-   - clone the project to your computer by running the command "git clone https://github.com/madhusudhan1234/cms.git"
+   - Clone the project to your computer by running the command "git clone https://github.com/asmit1994/online-product"
    - Add .env file into the project's directory
    - Create database in mysql
    - Configure .env file with database credentials
